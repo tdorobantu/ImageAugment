@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 11 12:54:22 2020
 
-@author: Tudor's Pal
+@author: Tudor Dorobantu
 """
 
 import random
